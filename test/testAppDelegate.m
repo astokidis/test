@@ -15,7 +15,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    NSLog(@"%@",@"test9jghjjfdsfsdf");
+    NSLog(@"%@",@"test9jghjjfdsfsdffsdfsdf")
+    ;
     // Override point for customization after application launch.
     // Add the navigation controller's view to the window and display.
     self.window.rootViewController = self.navigationController;
